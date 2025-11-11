@@ -13,3 +13,4 @@ Ce projet est un site web de portfolio personnel responsive, conçu pour présen
 ## Expériences
 - Ce projet m'a permis de maitriser encore plus les différents concepts de html et css concernat les animations, les hovers sur les images etc.
 - J'ai apris aussi à importer une carte dans mon fichier html pour la localisation 
+![Description de l’image](rendu.png)
